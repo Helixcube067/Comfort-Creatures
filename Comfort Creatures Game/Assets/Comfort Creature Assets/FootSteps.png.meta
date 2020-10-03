@@ -1,0 +1,3128 @@
+fileFormatVersion: 2
+guid: f60e812a805a84144a56f5c85859d439
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6762090944989307658
+    second: FootSteps_0
+  - first:
+      213: 3233967927143199039
+    second: FootSteps_1
+  - first:
+      213: 7451130205789643386
+    second: FootSteps_2
+  - first:
+      213: 7672462476481958989
+    second: FootSteps_3
+  - first:
+      213: -7792360472102611901
+    second: FootSteps_4
+  - first:
+      213: 4298291875211482493
+    second: FootSteps_5
+  - first:
+      213: -6768449345230199839
+    second: FootSteps_6
+  - first:
+      213: -8990125023291397593
+    second: FootSteps_7
+  - first:
+      213: -627850508580055438
+    second: FootSteps_8
+  - first:
+      213: -2677226004647465718
+    second: FootSteps_9
+  - first:
+      213: 1026407077283856317
+    second: FootSteps_10
+  - first:
+      213: 7562443736291341106
+    second: FootSteps_11
+  - first:
+      213: 6264511073672927850
+    second: FootSteps_12
+  - first:
+      213: 4863624458396060144
+    second: FootSteps_13
+  - first:
+      213: 8631375044664524645
+    second: FootSteps_14
+  - first:
+      213: -714483549050708713
+    second: FootSteps_15
+  - first:
+      213: -1081543817153316003
+    second: FootSteps_16
+  - first:
+      213: -1904383331444560306
+    second: FootSteps_17
+  - first:
+      213: -4515186956749468530
+    second: FootSteps_18
+  - first:
+      213: 1304702579672433115
+    second: FootSteps_19
+  - first:
+      213: 922715064305037412
+    second: FootSteps_20
+  - first:
+      213: 3125624005527887057
+    second: FootSteps_21
+  - first:
+      213: -3714194579770894539
+    second: FootSteps_22
+  - first:
+      213: -7731454953933855492
+    second: FootSteps_23
+  - first:
+      213: -5839822523479191899
+    second: FootSteps_24
+  - first:
+      213: 665896112802419295
+    second: FootSteps_25
+  - first:
+      213: 8993792219229496643
+    second: FootSteps_26
+  - first:
+      213: -6169317943425950937
+    second: FootSteps_27
+  - first:
+      213: 1977540499551010373
+    second: FootSteps_28
+  - first:
+      213: -3368664743869896800
+    second: FootSteps_29
+  - first:
+      213: -6885643116491007474
+    second: FootSteps_30
+  - first:
+      213: 2722140728153399768
+    second: FootSteps_31
+  - first:
+      213: 2082430479323512310
+    second: FootSteps_32
+  - first:
+      213: 1496301478246623575
+    second: FootSteps_33
+  - first:
+      213: 297501518662239877
+    second: FootSteps_34
+  - first:
+      213: 4250010806856885629
+    second: FootSteps_35
+  - first:
+      213: 923211927441957145
+    second: FootSteps_36
+  - first:
+      213: 3668204750774955035
+    second: FootSteps_37
+  - first:
+      213: -1628190575546528546
+    second: FootSteps_38
+  - first:
+      213: 444503991585870081
+    second: FootSteps_39
+  - first:
+      213: 3623240165797432281
+    second: FootSteps_40
+  - first:
+      213: -8510265430110850905
+    second: FootSteps_41
+  - first:
+      213: -6881995075407367415
+    second: FootSteps_42
+  - first:
+      213: 2987238511719650969
+    second: FootSteps_43
+  - first:
+      213: 304240281114294630
+    second: FootSteps_44
+  - first:
+      213: -7806559825277744781
+    second: FootSteps_45
+  - first:
+      213: 1346821400204053436
+    second: FootSteps_46
+  - first:
+      213: 1985160350809418905
+    second: FootSteps_47
+  - first:
+      213: 3613595473676844333
+    second: FootSteps_48
+  - first:
+      213: -4856284199759195678
+    second: FootSteps_49
+  - first:
+      213: 4364729184058541310
+    second: FootSteps_50
+  - first:
+      213: -2679718561428977284
+    second: FootSteps_51
+  - first:
+      213: -5920311640857329807
+    second: FootSteps_52
+  - first:
+      213: 3669571235837965605
+    second: FootSteps_53
+  - first:
+      213: -7451791038483426847
+    second: FootSteps_54
+  - first:
+      213: 5073938331086986672
+    second: FootSteps_55
+  - first:
+      213: 6934265739499705805
+    second: FootSteps_56
+  - first:
+      213: -5341510263206521302
+    second: FootSteps_57
+  - first:
+      213: 3228319467805877223
+    second: FootSteps_58
+  - first:
+      213: -3487946266340855104
+    second: FootSteps_59
+  - first:
+      213: 2965589455267007800
+    second: FootSteps_60
+  - first:
+      213: -1663635442045820347
+    second: FootSteps_61
+  - first:
+      213: -8130463076822438085
+    second: FootSteps_62
+  - first:
+      213: 2274154232663814634
+    second: FootSteps_63
+  - first:
+      213: -2056912394562198333
+    second: FootSteps_64
+  - first:
+      213: -6151523718646938995
+    second: FootSteps_65
+  - first:
+      213: 1948508759698212768
+    second: FootSteps_66
+  - first:
+      213: -199683491854185569
+    second: FootSteps_67
+  - first:
+      213: -7579187675843386531
+    second: FootSteps_68
+  - first:
+      213: -2936174080951568771
+    second: FootSteps_69
+  - first:
+      213: 3996562640522678525
+    second: FootSteps_70
+  - first:
+      213: -5563456495312768508
+    second: FootSteps_71
+  - first:
+      213: -6420225863752215390
+    second: FootSteps_72
+  - first:
+      213: 225076199435745720
+    second: FootSteps_73
+  - first:
+      213: -5958086016431187086
+    second: FootSteps_74
+  - first:
+      213: -1401044367355804107
+    second: FootSteps_75
+  - first:
+      213: 2108897441464293469
+    second: FootSteps_76
+  - first:
+      213: -6157207977613849494
+    second: FootSteps_77
+  - first:
+      213: -2413516615183673296
+    second: FootSteps_78
+  - first:
+      213: 2996484404712266604
+    second: FootSteps_79
+  - first:
+      213: -5863065813797807407
+    second: FootSteps_80
+  - first:
+      213: -7935193722182339308
+    second: FootSteps_81
+  - first:
+      213: 3375528239939224398
+    second: FootSteps_82
+  - first:
+      213: -7463131988436846700
+    second: FootSteps_83
+  - first:
+      213: -7412271281138208390
+    second: FootSteps_84
+  - first:
+      213: -8014033036500327004
+    second: FootSteps_85
+  - first:
+      213: 5910366137853703222
+    second: FootSteps_86
+  - first:
+      213: -5033511967825917625
+    second: FootSteps_87
+  - first:
+      213: 1704944597426288111
+    second: FootSteps_88
+  - first:
+      213: 509802050172478770
+    second: FootSteps_89
+  - first:
+      213: 1553748779406247742
+    second: FootSteps_90
+  - first:
+      213: 2280742980151078852
+    second: FootSteps_91
+  - first:
+      213: -1735398272080332847
+    second: FootSteps_92
+  - first:
+      213: 8034169803501576678
+    second: FootSteps_93
+  - first:
+      213: 5373264589993293673
+    second: FootSteps_94
+  - first:
+      213: 8297954782193299460
+    second: FootSteps_95
+  - first:
+      213: -1083742181191714667
+    second: FootSteps_96
+  - first:
+      213: 5498874926890617509
+    second: FootSteps_97
+  - first:
+      213: 205663618150342399
+    second: FootSteps_98
+  - first:
+      213: -2282162531120471010
+    second: FootSteps_99
+  - first:
+      213: -2516504668194153803
+    second: FootSteps_100
+  - first:
+      213: -83406627122912570
+    second: FootSteps_101
+  - first:
+      213: 4182637835148927525
+    second: FootSteps_102
+  - first:
+      213: 4165178275451216419
+    second: FootSteps_103
+  - first:
+      213: 2901612844664042579
+    second: FootSteps_104
+  - first:
+      213: -1729897307488777222
+    second: FootSteps_105
+  - first:
+      213: -7072066713633563594
+    second: FootSteps_106
+  - first:
+      213: 3822261424225319488
+    second: FootSteps_107
+  - first:
+      213: -7456271899058775710
+    second: FootSteps_108
+  - first:
+      213: -3136999187940377096
+    second: FootSteps_109
+  - first:
+      213: 2401782806174437246
+    second: FootSteps_110
+  - first:
+      213: 5867620033860969966
+    second: FootSteps_111
+  - first:
+      213: -1578343999233410339
+    second: FootSteps_112
+  - first:
+      213: -5033057707713966834
+    second: FootSteps_113
+  - first:
+      213: 2339745834655370732
+    second: FootSteps_114
+  - first:
+      213: 1783020203406729597
+    second: FootSteps_115
+  - first:
+      213: 770362012883428243
+    second: FootSteps_116
+  - first:
+      213: -5941561341865894304
+    second: FootSteps_117
+  - first:
+      213: -9053511053731696024
+    second: FootSteps_118
+  - first:
+      213: 29269858500236175
+    second: FootSteps_119
+  - first:
+      213: 2713433882717238597
+    second: FootSteps_120
+  - first:
+      213: -7361659037665497403
+    second: FootSteps_121
+  - first:
+      213: -8277609259938087200
+    second: FootSteps_122
+  - first:
+      213: 5640395060613757254
+    second: FootSteps_123
+  - first:
+      213: 6892037620011865630
+    second: FootSteps_124
+  - first:
+      213: -4522035439820964515
+    second: FootSteps_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FootSteps_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 353
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd605dc1a3822a0800000000000000
+      internalID: -6762090944989307658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 354
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31706802bc51ec20800000000000000
+      internalID: 3233967927143199039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 354
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726643c17bb76760800000000000000
+      internalID: 7451130205789643386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 355
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44983fc8ff0a7a60800000000000000
+      internalID: 7672462476481958989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 355
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3445782bf69fbd390800000000000000
+      internalID: -7792360472102611901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 355
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759deaefa996ab30800000000000000
+      internalID: 4298291875211482493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 360
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e324596e23a112a0800000000000000
+      internalID: -6768449345230199839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 361
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aad5c4ce8ac3380800000000000000
+      internalID: -8990125023291397593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2769908f94d6947f0800000000000000
+      internalID: -627850508580055438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 361
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dac81222598dad0800000000000000
+      internalID: -2677226004647465718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 360
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf73747cc78e3e00800000000000000
+      internalID: 1026407077283856317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f587b28233f860800000000000000
+      internalID: 7562443736291341106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 352
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a96c571a300f650800000000000000
+      internalID: 6264511073672927850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f949932da01f7340800000000000000
+      internalID: 4863624458396060144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 352
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f76644fddc8c770800000000000000
+      internalID: 8631375044664524645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 352
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd8f46ff4a516f0800000000000000
+      internalID: -714483549050708713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 352
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b7e89e0a59df0f0800000000000000
+      internalID: -1081543817153316003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 351
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e621d23754295e0800000000000000
+      internalID: -1904383331444560306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 311
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c8874a265d651c0800000000000000
+      internalID: -4515186956749468530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 310
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd149e6651c3b1210800000000000000
+      internalID: 1304702579672433115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 313
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460bdc456742ecc00800000000000000
+      internalID: 922715064305037412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc5ce60972706b20800000000000000
+      internalID: 3125624005527887057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537131655b7847cc0800000000000000
+      internalID: -3714194579770894539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4a6d1beaa54b490800000000000000
+      internalID: -7731454953933855492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae82b80b58c4fea0800000000000000
+      internalID: -5839822523479191899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 312
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d6ec8cfcbd3900800000000000000
+      internalID: 665896112802419295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345a8da4f5e50dc70800000000000000
+      internalID: 8993792219229496643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b17a3540e226aa0800000000000000
+      internalID: -6169317943425950937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_28
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ebfac5b92a17b10800000000000000
+      internalID: 1977540499551010373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_29
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7a04e63491041d0800000000000000
+      internalID: -3368664743869896800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a907731184170a0800000000000000
+      internalID: -6885643116491007474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1e43ad19cf6c520800000000000000
+      internalID: 2722140728153399768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd368ddc7746ec10800000000000000
+      internalID: 2082430479323512310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75928c7444ee3c410800000000000000
+      internalID: 1496301478246623575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58680041e00f02400800000000000000
+      internalID: 297501518662239877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 305
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a642bf421bfa30800000000000000
+      internalID: 4250010806856885629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e49b4b58efcc00800000000000000
+      internalID: 923211927441957145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c675d29c418e230800000000000000
+      internalID: 3668204750774955035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc09ed4c418769e0800000000000000
+      internalID: -1628190575546528546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10118b776023b2600800000000000000
+      internalID: 444503991585870081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db884aebb5584230800000000000000
+      internalID: 3623240165797432281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b4fd3ea675e980800000000000000
+      internalID: -8510265430110850905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9033b58f0fd3e70a0800000000000000
+      internalID: -6881995075407367415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 272
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969a6e699dc47920800000000000000
+      internalID: 2987238511719650969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 270
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669be2a7ce0e83400800000000000000
+      internalID: 304240281114294630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3790c78233789a390800000000000000
+      internalID: -7806559825277744781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 268
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8e0f7deed0b210800000000000000
+      internalID: 1346821400204053436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 265
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6f2c32d4bc8b10800000000000000
+      internalID: 1985160350809418905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db77a00f1162230800000000000000
+      internalID: 3613595473676844333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1d20100430b9cb0800000000000000
+      internalID: -4856284199759195678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 265
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4079c4112a29c30800000000000000
+      internalID: 4364729184058541310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_51
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7941088a2abfcad0800000000000000
+      internalID: -2679718561428977284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_52
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb6170ee3d6dda0800000000000000
+      internalID: -5920311640857329807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_53
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525fc16c89fece230800000000000000
+      internalID: 3669571235837965605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 226
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e191c2288be59890800000000000000
+      internalID: -7451791038483426847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_55
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 227
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd9dac77004a6640800000000000000
+      internalID: 5073938331086986672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 226
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc59a0563f57b3060800000000000000
+      internalID: 6934265739499705805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_57
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 226
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d87557b42fd5b0800000000000000
+      internalID: -5341510263206521302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_58
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 225
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e32c0c937b4dcc20800000000000000
+      internalID: 3228319467805877223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_59
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 226
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c27a17c953589fc0800000000000000
+      internalID: -3487946266340855104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 214
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d85dea5e3e72920800000000000000
+      internalID: 2965589455267007800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 214
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542eb19316499e8e0800000000000000
+      internalID: -1663635442045820347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 214
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa19e98eaca2f80800000000000000
+      internalID: -8130463076822438085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_63
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b062c93b6f8f10800000000000000
+      internalID: 2274154232663814634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 218
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a50c33116473e0800000000000000
+      internalID: -2056912394562198333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 218
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c8a225c561aaa0800000000000000
+      internalID: -6151523718646938995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78c8fa46e7a0b10800000000000000
+      internalID: 1948508759698212768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b85801ce49a3df0800000000000000
+      internalID: -199683491854185569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_68
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53265f07f051d690800000000000000
+      internalID: -7579187675843386531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_69
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763c2ada3d9047d0800000000000000
+      internalID: -2936174080951568771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_70
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df093fefb84a67730800000000000000
+      internalID: 3996562640522678525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 217
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402fa814bc1aac2b0800000000000000
+      internalID: -5563456495312768508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4164db796c6e6a0800000000000000
+      internalID: -6420225863752215390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 164
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b933c26c91af1300800000000000000
+      internalID: 225076199435745720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_74
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9569d550a05da0800000000000000
+      internalID: -5958086016431187086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5360239229d7e8ce0800000000000000
+      internalID: -1401044367355804107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589532bc0f444d10800000000000000
+      internalID: 2108897441464293469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_77
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 162
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c002677f33d8aa0800000000000000
+      internalID: -6157207977613849494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 163
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03859740d67718ed0800000000000000
+      internalID: -2413516615183673296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_79
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 163
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5fd5a0b6a59920800000000000000
+      internalID: 2996484404712266604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_80
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 159
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da58d9c4b432aea0800000000000000
+      internalID: -5863065813797807407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_81
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 161
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41579652a5780e190800000000000000
+      internalID: -7935193722182339308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4380e6cc0948de20800000000000000
+      internalID: 3375528239939224398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 112
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497fd557ff0ad6890800000000000000
+      internalID: -7463131988436846700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_84
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 112
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a717decaa82522990800000000000000
+      internalID: -7412271281138208390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52729d96f68c090800000000000000
+      internalID: -8014033036500327004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_86
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 112
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634744b10b6d50250800000000000000
+      internalID: 5910366137853703222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_87
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490f01b88f552ab0800000000000000
+      internalID: -5033511967825917625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_88
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b053041e29a710800000000000000
+      internalID: 1704944597426288111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_89
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 130
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235eb4a734e231700800000000000000
+      internalID: 509802050172478770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_90
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 107
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c4b26846009510800000000000000
+      internalID: 1553748779406247742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_91
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 109
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfeed318a3d6af10800000000000000
+      internalID: 2280742980151078852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 113
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d733d05770aae7e0800000000000000
+      internalID: -1735398272080332847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 113
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a1e29eda1f7f60800000000000000
+      internalID: 8034169803501576678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 115
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9673cb20daba19a40800000000000000
+      internalID: 5373264589993293673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b2e2f8e1482370800000000000000
+      internalID: 8297954782193299460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 114
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f5f56a36c5f0f0800000000000000
+      internalID: -1083742181191714667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_97
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 106
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0e999c9def4c40800000000000000
+      internalID: 5498874926890617509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 110
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe921798f9aad200800000000000000
+      internalID: 205663618150342399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_99
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 63
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14abd4f4412450e0800000000000000
+      internalID: -2282162531120471010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_100
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 62
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5badca85654931dd0800000000000000
+      internalID: -2516504668194153803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 62
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ec625d1ea7def0800000000000000
+      internalID: -83406627122912570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_102
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522292453f6bb0a30800000000000000
+      internalID: 4182637835148927525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 65
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a17ec29fadc930800000000000000
+      internalID: 4165178275451216419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 70
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35439e14289944820800000000000000
+      internalID: 2901612844664042579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_105
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 63
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0a31709b2ef7e0800000000000000
+      internalID: -1729897307488777222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 68
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd10a1bc8fadd90800000000000000
+      internalID: -7072066713633563594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_107
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 67
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af0ad93866b0530800000000000000
+      internalID: 3822261424225319488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269dfdb7630068890800000000000000
+      internalID: -7456271899058775710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_109
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 67
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdff1eebd32774d0800000000000000
+      internalID: -3136999187940377096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_110
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 70
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f0badacb8d45120800000000000000
+      internalID: 2401782806174437246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_111
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 68
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5af333559fd6150800000000000000
+      internalID: 5867620033860969966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_112
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 69
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab250ce78981ae0800000000000000
+      internalID: -1578343999233410339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_113
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 70
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dcaad5eacf62ab0800000000000000
+      internalID: -5033057707713966834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_114
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 63
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced455ba072787020800000000000000
+      internalID: 2339745834655370732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_115
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 62
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71276b9d6f8eb810800000000000000
+      internalID: 1783020203406729597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_116
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 65
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932f5e4b20e0ba00800000000000000
+      internalID: 770362012883428243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed3e670755b8da0800000000000000
+      internalID: -5941561341865894304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_118
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ff380aa77b5280800000000000000
+      internalID: -9053511053731696024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_119
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 11
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83588ef7ccf76000800000000000000
+      internalID: 29269858500236175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_120
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545bedc6dbd08a520800000000000000
+      internalID: 2713433882717238597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_121
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6766eb1226d990800000000000000
+      internalID: -7361659037665497403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_122
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 11
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eef7e71c36002d80800000000000000
+      internalID: -8277609259938087200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_123
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 13
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64930cc6c65b64e40800000000000000
+      internalID: 5640395060613757254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_124
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 22
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169f6723bf65af50800000000000000
+      internalID: 6892037620011865630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FootSteps_125
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 24
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d7ebbe9b08e31c0800000000000000
+      internalID: -4522035439820964515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
