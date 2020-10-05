@@ -9,13 +9,19 @@ public class CookieFindScript : MonoBehaviour
 
 	CreatureManagerScript manager;
 
-	public float size;
+	public float startSize = 1; //set this to setup differences in characters at start
+	public float size = 1;
+	public float scalingFactor;
 
     // Start is called before the first frame update
     void Start()
     {
 		manager = (CreatureManagerScript)FindObjectOfType(typeof(CreatureManagerScript));
-		size = 1;
+		//startSize = 1;
+		for (int i = 1; i < startSize; i++) {
+			size++;
+			transform.localScale *= scalingFactor;
+		}
     }
 
     // Update is called once per frame
@@ -28,7 +34,7 @@ public class CookieFindScript : MonoBehaviour
 		if (collision.transform.CompareTag("Cookie")) {
 			manager.RemoveCookie(collision.transform);
 			size++;
-			transform.localScale *= 1.3f;
+			transform.localScale *= scalingFactor;
 			GameObject.Destroy(collision.transform.gameObject);
 		}
 	}

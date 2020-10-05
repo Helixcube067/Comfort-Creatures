@@ -51,6 +51,10 @@ public class MyRigidbodySeek : MonoBehaviour
 			nextLinear = target.transform.position - transform.position;
 			nextLinear.Normalize();
 			nextLinear = nextLinear * maxAccel;
+		} else {
+			nextLinear = (transform.position + Random.insideUnitSphere) - transform.position;
+			nextLinear.Normalize();
+			nextLinear = nextLinear * maxAccel;
 		}
 	}
 }
